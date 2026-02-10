@@ -1,16 +1,44 @@
-### Hi there 👋
+# 👋 Hi, I'm Cherif
 
-<!--
-**ckec/ckec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Senior Backend Engineer (Python, IA, Cloud)  
+🧠 10+ years experience – AI-ready platforms, data-intensive systems  
+🌍 Open to freelance & remote missions  
+🎯 Focus: delivery, performance, clean architecture, real-world impact
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 About Me
+
+Senior backend developer specialized in **Python-based platforms** for **AI, data engineering and cloud environments**.
+
+I design and deliver **scalable, production-ready backend systems** handling:
+
+- large-scale data processing,
+- complex business rules,
+- AI & LLM-powered services,
+- critical and regulated environments.
+
+Comfortable across the full lifecycle: **architecture, POC, industrialization, performance optimization, and production
+delivery**.
+
+---
+
+## 💼 What I’m Looking For
+
+- Freelance backend / AI missions
+- Remote or hybrid opportunities
+- Long-term technical partnerships
+- AI-driven product development
+
+---
+
+## 🧪 Workshops & Mini-Projects
+### 🤖 AI / Deep Learning / LLMs
+- [Transformers lab: from scratch implementation of attention, multi-head attention, positional encoding, and transformer
+  blocks](https://github.com/chkechad/transformers-lab).
+
+## 📫 Contact
+
+- Email: ckechad@acigna.dev
+- LinkedIn: https://linkedin.com/in/ckechad
+- Portfolio: https://ckechad.dev
