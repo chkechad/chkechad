@@ -42,3 +42,4 @@ delivery**.
 - Email: ckechad@acigna.dev
 - LinkedIn: https://linkedin.com/in/ckechad
 - Portfolio: https://ckechad.dev
+- Medium: https://medium.com/@ckechad
