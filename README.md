@@ -62,6 +62,8 @@ Reproducing research papers from scratch to verify and understand their implemen
 | [Attention Is All You Need](https://arxiv.org/abs/1706.03762)                             | NLP / Transformers | 🚧     | —    |
 | [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805) | NLP                | 🔜     | —    |
 | [Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2005.11401)                  | LLM / Search       | 🔜     | —    |
+| [Arabic Handwriting Recognition with Wavelets](https://doi.org/10.1007/978-981-16-1781-2_70) | Computer Vision / NLP | 🔜 | — |
+
 
 ## 📫 Contact
 
