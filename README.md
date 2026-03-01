@@ -33,7 +33,9 @@ delivery**.
 ---
 
 ## 🧪 Workshops & Mini-Projects
+
 ### 🤖 AI / Deep Learning / LLMs
+
 - [Transformers lab: from scratch implementation of attention, multi-head attention, positional encoding, and transformer
   blocks](https://github.com/chkechad/transformers-lab).
 
@@ -51,6 +53,15 @@ Production-ready boilerplates for Python backend projects:
 
 - **How I migrated 22 million rows to GCP with zero downtime** *(coming soon)*
 
+### 📄 Paper Reproductions
+
+Reproducing research papers from scratch to verify and understand their implementations:
+
+| Paper                                                                                     | Field              | Status | Repo |
+|-------------------------------------------------------------------------------------------|--------------------|--------|------|
+| [Attention Is All You Need](https://arxiv.org/abs/1706.03762)                             | NLP / Transformers | 🚧     | —    |
+| [BERT: Pre-training of Deep Bidirectional Transformers](https://arxiv.org/abs/1810.04805) | NLP                | 🔜     | —    |
+| [Retrieval-Augmented Generation (RAG)](https://arxiv.org/abs/2005.11401)                  | LLM / Search       | 🔜     | —    |
 
 ## 📫 Contact
 
@@ -58,3 +69,4 @@ Production-ready boilerplates for Python backend projects:
 - LinkedIn: https://linkedin.com/in/ckechad
 - Portfolio: https://ckechad.dev
 - Medium: https://medium.com/@ckechad
+- dev.to: https://dev.to/ckechad
