@@ -47,6 +47,10 @@ Production-ready boilerplates for Python backend projects:
 - **fastapi-production-kit-cloud-run** – + GCP Cloud Run deployment setup
 - **langchain-rag-kit** – RAG pipeline with vector store, FastAPI endpoint, ready for production
 
+### ✍️ Medium Articles
+
+- **How I migrated 22 million rows to GCP with zero downtime** *(coming soon)*
+
 
 ## 📫 Contact
 
