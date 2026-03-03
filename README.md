@@ -43,11 +43,11 @@ delivery**.
 
 Production-ready boilerplates for Python backend projects:
 
-- **python-production-kit** – Base project structure with logging, config, CI/CD
-- [fastapi-production-kit-postgresql – FastAPI with auth, error handling, Docker + async PostgreSQL integration](https://github.com/chkechad/fastapi-production-kit-postgresql).
-- **fastapi-production-kit-mongodb** – FastAPI with auth, error handling, Docker + async MongoDB integration
-- **fastapi-production-kit-cloud-run** – + GCP Cloud Run deployment setup
-- **langchain-rag-kit** – RAG pipeline with vector store, FastAPI endpoint, ready for production
+- **python-production-kit** – Base project structure with logging, config, CI/CD 🔜
+- [fastapi-production-kit-postgresql – FastAPI with auth, error handling, Docker + async PostgreSQL integration](https://github.com/chkechad/fastapi-production-kit-postgresql). 🚧
+- **fastapi-production-kit-mongodb** – FastAPI with auth, error handling, Docker + async MongoDB integration 🔜
+- **fastapi-production-kit-cloud-run** – + GCP Cloud Run deployment setup 🔜
+- **langchain-rag-kit** – RAG pipeline with vector store, FastAPI endpoint, ready for production 🔜
 
 ### Examples:
 - [tickets-management](https://github.com/chkechad/tickets_management) – Ticket management REST API built with FastAPI, SQLAlchemy & SQLite. Includes test , strict typing with Mypy, Ruff linting, and Docker setup.
@@ -70,7 +70,7 @@ Reproducing research papers from scratch to verify and understand their implemen
 
 ## 📫 Contact
 
-- Email: ckechad@acigna.dev
+- Email: me@ckechad.dev
 - LinkedIn: https://linkedin.com/in/ckechad
 - Portfolio: https://ckechad.dev
 - Medium: https://medium.com/@ckechad
