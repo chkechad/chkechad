@@ -49,6 +49,9 @@ Production-ready boilerplates for Python backend projects:
 - **fastapi-production-kit-cloud-run** – + GCP Cloud Run deployment setup
 - **langchain-rag-kit** – RAG pipeline with vector store, FastAPI endpoint, ready for production
 
+### Examples:
+- [tickets-management](https://github.com/chkechad/tickets_management) – Ticket management REST API built with FastAPI, SQLAlchemy & SQLite. Includes test , strict typing with Mypy, Ruff linting, and Docker setup.
+
 ### ✍️ Medium Articles
 
 - **How I migrated 22 million rows to GCP with zero downtime** *(coming soon)*
