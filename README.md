@@ -54,7 +54,7 @@ Production-ready boilerplates for Python backend projects:
 
 ### ✍️ Medium Articles
 
-- **How I migrated 22 million rows to GCP with zero downtime** *(coming soon)*
+- **How I migrated 22 million rows to GCP with zero downtime** 🔜
 
 ### 📄 Paper Reproductions
 
