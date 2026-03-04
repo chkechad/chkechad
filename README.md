@@ -51,7 +51,7 @@ Production-ready boilerplates for Python backend projects:
 
 ### Examples:
 - [tickets-management](https://github.com/chkechad/tickets_management) – Ticket management REST API built with FastAPI, SQLAlchemy & SQLite. Includes test , strict typing with Mypy, Ruff linting, and Docker setup.
-- [tickets-management-with-langchain](https://github.com/chkechad/ticket_management_rag) – Ticket management REST API built with FastAPI, SQLAlchemy & SQLite. Includes LangChain integration for LLM-powered ticket creation, tests, strict typing with MyPy, Ruff linting, and Docker setup.
+- [tickets-management-with-langchain](https://github.com/chkechad/tickets_management_rag) – Ticket management REST API built with FastAPI, SQLAlchemy & SQLite. Includes LangChain integration for LLM-powered ticket creation, tests, strict typing with MyPy, Ruff linting, and Docker setup.
 
 
 ### ✍️ Medium Articles
